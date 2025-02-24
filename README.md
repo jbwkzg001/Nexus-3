@@ -1,7 +1,7 @@
 # Nexus-3
 Nexus网页自动连接
 
-
+--------------------------
 
 /**
  * 使用 XPath 获取元素节点。
@@ -57,3 +57,5 @@ function clickButton() {
  */
 setTimeout(connectToNexus, 5000);
 setInterval(connectToNexus, 5000);
+
+-------------------------
