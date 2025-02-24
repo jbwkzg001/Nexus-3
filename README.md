@@ -2,7 +2,7 @@
 Nexus网页自动连接
 
 --------------------------
-
+{
 /**
  * 使用 XPath 获取元素节点。
  * @param {string} xpath - 用来定位元素的 XPath。
@@ -57,5 +57,5 @@ function clickButton() {
  */
 setTimeout(connectToNexus, 5000);
 setInterval(connectToNexus, 5000);
-
+}
 -------------------------
